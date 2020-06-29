@@ -1,4 +1,4 @@
-## Barebones create-react-app boilerplate with tailwindcss.
+## Barebones create-react-app boilerplate with tailwindcss and apollo-client.
 
 ### Modify default purgecss paths in "tailwind.js".
 
